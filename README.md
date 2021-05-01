@@ -8,6 +8,11 @@ git clone https://github.com/neilkuan/cdkday.git
 yarn
 ```
 
+## To diff
+```bash
+cdk diff
+```
+
 ## To deploy
 ```bash
 cdk deploy
