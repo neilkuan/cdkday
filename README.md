@@ -1,3 +1,4 @@
+## Sample Code from [2021 CDK DAY](https://youtu.be/5p2QfolwP7U?t=11001)
 ## Clone Repo
 ```bash
 git clone https://github.com/neilkuan/cdkday.git
